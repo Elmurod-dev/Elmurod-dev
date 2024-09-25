@@ -13,7 +13,9 @@
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://ElmurodNarzullayev.t.me/)   [![Gmail](https://img.shields.io/badge/elmurodnarzullayev8@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:elmurodnarzullayev8@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/elmurodnarzullayev)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://ElmurodNarzullayev.t.me/)   [![Gmail](https://img.shields.io/badge/elmurodnarzullayev8@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:elmurodnarzullayev8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/elmurodnarzullayev)
 
 
 
